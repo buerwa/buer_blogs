@@ -1,4 +1,4 @@
-# cos 的博客
+# 布尔 的博客
 
 Hexo + Shoka 主题 + vercel 搭建的属于自己的博客站点
 
