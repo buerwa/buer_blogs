@@ -64,7 +64,7 @@ hexo s
 ## 目录说明
 
 ```
-cos_blogs
+buer_blogs
 ├─ package.json
 ├─ README.md
 ├─ scaffolds 存放生成草稿/文章/页面基础模板
