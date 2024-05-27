@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 余弦の博客
+title: 布尔の博客
 subtitle: WA的一声就哭了
 description: 图片迁移完毕，博客待重构~
 keywords: 前端, React, 全栈
-author: cos
+author: 布尔
 language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
 timezone: "Asia/Shanghai"
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ysx.cosine.ren/
+url: https://buer-blogs.vercel.app/
 permalink: :link/
 permalink_defaults:
 pretty_urls:
