@@ -184,7 +184,7 @@ algolia:
   apiKey: #Your algolia apiKey (Search api)
   adminApiKey: #Your algolia adminApiKey
   chunkSize: 5000
-  indexName: cos_blogs # algolia index name
+  indexName: buer_blogs # algolia index name
   fields:
     - title #必须配置
     - path #必须配置

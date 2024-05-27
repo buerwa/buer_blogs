@@ -13,11 +13,11 @@ description: "关于我？"
 
 主攻React及其相关生态，最近在找实习^_^
 
-- 热爱写代码，现在热衷于前端开发，之前也有过不少后端的经验，现在正朝着大前端的方向努力
+- 热爱写代码，现在热衷于前端开发，之前也有过一些后端的经验，现在正朝着大前端的方向努力
 - Gitbook 前端学习记录：[前言及目录 - 前端学习记录](https://book.cosine.ren/) 不断完善ing...
 - 个人博客
 
-  - Hexo 博客 👉 ([cosine = 余弦の博客 = WA 的一声就哭了 (buer-blogs.vercel.app)](https://buer-blogs.vercel.app/))
+  - Hexo 博客 👉 ([cosine = 布尔の博客 = WA 的一声就哭了 (buer-blogs.vercel.app)](https://buer-blogs.vercel.app/))
 
 愿热情永存，愿热爱不灭，愿生活无憾
 
@@ -42,7 +42,7 @@ description: "关于我？"
 
 # 📖 前端学习成果历程
 
-- 2023/2 捡起没看完的JS红宝书继续看
+- 2024/2 捡起没看完的JS红宝书继续看
 - 2023/7 开始学前端，但是摆了一个暑假
 
 ## 🧰 cosine-toolbox
