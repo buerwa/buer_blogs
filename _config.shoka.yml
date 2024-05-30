@@ -1,5 +1,5 @@
 # https://shoka.lostyu.me/computer-science/note/theme-shoka-doc/config/
-alternate: cosine
+alternate: buer
 
 # Assets
 statics: / #//fastly.jsdelivr.net/gh/amehime/shoka@latest/
@@ -86,14 +86,14 @@ menu:
 # Value before `||` delimiter is the target permalink,
 # secend value is the name of Font icon.
 social:
-  github: https://github.com/yusixian || github || "#191717"
+  github: https://github.com/wangjiangzhan || github || "#191717"
   #google: https://plus.google.com/yourname || google
   # twitter: https://twitter.com/amehime || twitter || "#00aff0"
-  zhihu: https://www.zhihu.com/people/qi-jiu-en || zhihu || "#1e88e5"
-  music: https://music.163.com/#/user/home?id=361029804 || cloud-music || "#e60026"
+  zhihu: https://www.zhihu.com/people/fang-yan-xiu-46 || zhihu || "#1e88e5"
+  music: https://music.163.com/#/user/home?id=8030446336 || cloud-music || "#e60026"
   # weibo: https://weibo.com/amehime || weibo || "#ea716e"
   # about: https://about.me/amehime || address-card || "#3b5998"
-  email: mailto:cosine_yu@qq.com || envelope || "#55acd5"
+  email: mailto:buer308299@gmail.com || envelope || "#55acd5"
   #facebook: https://www.facebook.com/yourname || facebook
   #stackoverflow: https://stackoverflow.com/yourname || stack-overflow
   #youtube: https://youtube.com/yourname || youtube
@@ -162,27 +162,15 @@ valine:
 
 # bgm
 audio:
-  - title: 工作放
-    list:
-      - https://music.163.com/playlist?id=9268837322
-  - title: cos的2023年度歌单
-    list:
-      - https://music.163.com/playlist?id=8965176731
-  - title: cos的2022年度歌单
-    list:
-      - https://music.163.com/playlist?id=7872285482
-  - title: cos的2021年度歌单
-    list:
-      - https://music.163.com/playlist?id=7189274318
-  - title: cos的2020年度歌单
-    list:
-      - https://music.163.com/playlist?id=5400313492
-  - title: cos的2019年度歌单
-    list:
-      - https://music.163.com/playlist?id=3144460328
   - title: ❤️安利向
     list:
-      - https://music.163.com/playlist?id=3036586237
+      - https://music.163.com/playlist?id=7640503645
+  - title: 布尔的2023年度歌单
+    list:
+      - https://music.163.com/playlist?id=9074653307
+  - title: 布尔的2022年度歌单
+    list:
+      - https://music.163.com/playlist?id=7909959206
 
 # Dependencies: https://github.com/amehime/hexo-renderer-multi-markdown-it
 pangu: true
