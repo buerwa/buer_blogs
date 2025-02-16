@@ -29,8 +29,8 @@ Hexo + Shoka 主题 + vercel 搭建的属于自己的博客站点
 首先，将这个博客 clone 到本地（
 
 ```bash
-git clone git@github.com:yusixian/cos_blogs.git
-cd cos_blogs
+git clone https://github.com/wangjiangzhan/buer_blogs.git
+cd buer_blogs
 ```
 
 进入博客目录后（首先要有[node.js](https://nodejs.org/en/download/)环境）
@@ -39,9 +39,10 @@ cd cos_blogs
 
 ```bash
 # 全局安装hexo命令行工具
+# yarn 安装（推荐）
+yarn global add hexo-cli
+# npm 安装（不再推荐，遇见 ERROR Process failed: languages/README.md）
 npm install hexo-cli -g
-# 或者
-yarn install hexo-cli -g
 ```
 
 2. 安装依赖
@@ -64,7 +65,7 @@ hexo s
 ## 目录说明
 
 ```
-cos_blogs
+buer_blogs
 ├─ package.json
 ├─ README.md
 ├─ scaffolds 存放生成草稿/文章/页面基础模板
