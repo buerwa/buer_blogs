@@ -29,7 +29,7 @@ Hexo + Shoka 主题 + vercel 搭建的属于自己的博客站点
 首先，将这个博客 clone 到本地（
 
 ```bash
-git clone https://github.com/wangjiangzhan/buer_blogs.git
+git clone https://github.com/buerwa/buer_blogs.git
 cd buer_blogs
 ```
 
